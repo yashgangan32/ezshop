@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const backendDomin = process.env.REACT_FRONTEND_URL
+=======
+const backendDomin = process.env.REACT_APP_BACKEND_URL
+>>>>>>> 5c0e50ece1e55887deb488075fd1449ca4378e75
 
 const SummaryApi = {
     signUP : {
